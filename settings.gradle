@@ -1,2 +1,6 @@
 rootProject.name = 'module-practice'
+include 'service'
+include 'model'
+include 'dbService'
+include 'client'
 
