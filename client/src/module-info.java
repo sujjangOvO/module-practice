@@ -1,3 +1,3 @@
-module student.clinet {
+module student.client {
     requires transitive student.db;
 }
