@@ -1,1 +1,3 @@
 rootProject.name = 'module-practice'
+include 'base'
+
